@@ -1,0 +1,10 @@
+^D:\KULIAH\SEMESTER_4\PROYEK\NEW FOLDER\MATERIAL-COMPONENTS-FLUTTER-CODELABS-101-STARTER\MDC_100_SERIES\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/KULIAH/SEMESTER_4/PROYEK/New folder/material-components-flutter-codelabs-101-starter/mdc_100_series/windows" "-BD:/KULIAH/SEMESTER_4/PROYEK/New folder/material-components-flutter-codelabs-101-starter/mdc_100_series/build/windows/x64" --check-stamp-file "D:/KULIAH/SEMESTER_4/PROYEK/New folder/material-components-flutter-codelabs-101-starter/mdc_100_series/build/windows/x64/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

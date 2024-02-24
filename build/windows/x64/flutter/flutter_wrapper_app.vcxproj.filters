@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\KULIAH\SEMESTER_4\PROYEK\New folder\material-components-flutter-codelabs-101-starter\mdc_100_series\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\KULIAH\SEMESTER_4\PROYEK\New folder\material-components-flutter-codelabs-101-starter\mdc_100_series\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\KULIAH\SEMESTER_4\PROYEK\New folder\material-components-flutter-codelabs-101-starter\mdc_100_series\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\KULIAH\SEMESTER_4\PROYEK\New folder\material-components-flutter-codelabs-101-starter\mdc_100_series\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\KULIAH\SEMESTER_4\PROYEK\New folder\material-components-flutter-codelabs-101-starter\mdc_100_series\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CFE067A4-0969-3CF7-A9B7-0A7B86F37F4A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B6C1ECA8-0552-3AED-9F7E-FB1FEDB05545}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

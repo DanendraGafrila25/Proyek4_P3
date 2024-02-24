@@ -1,0 +1,1 @@
+ D:\\KULIAH\\SEMESTER_4\\PROYEK\\New\ folder\\material-components-flutter-codelabs-101-starter\\mdc_100_series\\.dart_tool\\flutter_build\\c258002e9eef68f4644e5c5d32bd555c\\native_assets.yaml: 

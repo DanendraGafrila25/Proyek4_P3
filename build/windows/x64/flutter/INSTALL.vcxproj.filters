@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\KULIAH\SEMESTER_4\PROYEK\New folder\material-components-flutter-codelabs-101-starter\mdc_100_series\build\windows\x64\CMakeFiles\8082708f6a3ceb13c5bfa11360fb3021\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CFE067A4-0969-3CF7-A9B7-0A7B86F37F4A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
